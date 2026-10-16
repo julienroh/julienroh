@@ -23,6 +23,7 @@ I'm also learning Python independently and looking for an internship where I can
 
 - [**Minishell**](https://github.com/haoky10/minishell)
 - [**Push_swap**](https://github.com/julienroh/push_swap)
+- [**Minitalk**](https://github.com/julienroh/minitalk)
 - [**Philosophers**](https://github.com/julienroh/philosophers)
 - [**So_long**](https://github.com/julienroh/so_long)
 - [**Pipex**](https://github.com/Swavakian/Pipex)
