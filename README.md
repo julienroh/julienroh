@@ -22,7 +22,7 @@ I'm also learning Python independently and looking for an internship where I can
 ## Projects
 
 - [**Minishell**](https://github.com/haoky10/minishell)
-- [**Push_swap**](https://github.com/jroh/push_swap)
+- [**Push_swap**](https://github.com/haoky10/push_swap)
 - [**Pipex**](https://github.com/Swavakian/Pipex)
 - [**Cub3D**](https://github.com/haoky10/Cubd)
 - [**Transcendence**](https://github.com/Willy67flex/ft_transcendence)
