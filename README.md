@@ -8,7 +8,7 @@
 
 I'm a Computer Science student at **42 Lausanne**, with experience in C and C++ and an interest in software development, systems programming, and software engineering.
 
-I'm also learning Python independently and looking for an **internship starting in January 2027**, where I can apply my skills and gain professional experience.
+I'm also learning Python independently and looking for an internship where I can apply my skills and gain professional experience.
 
 ## Tech Stack
 
@@ -19,10 +19,10 @@ I'm also learning Python independently and looking for an **internship starting 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Selected Projects
+## Projects
 
 - [**Minishell**](https://github.com/haoky10/minishell)
-- [**Push_swap**](#)
+- **Push_swap** — add repository link
 - [**Pipex**](https://github.com/Swavakian/Pipex)
 - [**Cub3D**](https://github.com/haoky10/Cubd)
 - [**Transcendence**](https://github.com/Willy67flex/ft_transcendence)
@@ -43,5 +43,5 @@ I'm also learning Python independently and looking for an **internship starting 
 ---
 
 <p align="center">
-  <i>Currently looking for an internship starting January 2027.</i>
+  <i>Currently looking for an internship.</i>
 </p>
